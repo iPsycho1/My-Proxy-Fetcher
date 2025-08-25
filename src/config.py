@@ -34,7 +34,7 @@ class ProxyConfig:
 
         self.MIN_PROTOCOL_RATIO = 0.1
 
-        self.OUTPUT_FILE = 'configs/proxy_configs.txt'
+        self.OUTPUT_FILE = 'configs/iPsycho.txt'
         self.STATS_FILE = 'configs/channel_stats.json'
 
         self.MAX_RETRIES = 3
